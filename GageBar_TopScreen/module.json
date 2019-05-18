@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "Progress Bar: top screen",
+    "category" : "client",
+    "description" : "Moves charging/gathering bar right below system messages location.",
+    "author" : "Foglio",
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/GageBar_TopScreen"
+    ]
+}
