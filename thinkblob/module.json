@@ -5,6 +5,6 @@
     "description" : "Changes King Blob face to thinking emote.",
     "author" : "Foglio",
     "servers" : [
-        "https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/thinkblob"
+        "https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/thinkblob/"
     ]
 }
