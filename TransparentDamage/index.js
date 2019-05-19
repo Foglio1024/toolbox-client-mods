@@ -1,3 +1,3 @@
 module.exports = function transparentDamage(m){
-    m.installGPK("TexturedFonts25.gpk");
+    m.installGPK("TexturedFonts.gpk");
 }
