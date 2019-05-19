@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "TransparentDamage",
+    "category" : "client",
+    "author" : "Foglio",
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/TransparentDamage/"
+    ]
+}
