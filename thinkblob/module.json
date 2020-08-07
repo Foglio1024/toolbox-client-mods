@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate" : false,
     "name" : "Thinkblob",
-    "category" : "client",
+    "keywords" : ["client"],
     "description" : "Changes King Blob face to thinking emote.",
     "author" : "Foglio",
     "servers" : [
