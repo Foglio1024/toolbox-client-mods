@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate" : false,
     "name" : "GageBar_TopScreen",
-    "category" : "client",
+    "keywords" : ["client"],
     "description" : "Moves charging/gathering bar right below system messages location.",
     "author" : "Foglio",
     "options": {
-		"niceName": "Progress bar: top screen",
+		"cliName": "Progress bar: top screen",
 		"guiName": "Progress bar: top screen"
 	},
     "servers" : [
